@@ -481,3 +481,77 @@
 [04:36:47] [Server thread/DEBUG] [FML]: The world 6243b1c (world) may have leaked: seen 55 times.
 
 [04:37:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:37] [Server thread/DEBUG] [FML]: The world 61fb9a5c (world) may have leaked: seen 60 times.
+
+[04:37:37] [Server thread/DEBUG] [FML]: The world 6243b1c (world) may have leaked: seen 60 times.
+
+[04:38:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:38:27] [Server thread/DEBUG] [FML]: The world 61fb9a5c (world) may have leaked: seen 65 times.
+
+[04:38:27] [Server thread/DEBUG] [FML]: The world 6243b1c (world) may have leaked: seen 65 times.
+
+[04:38:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:39:17] [Server thread/DEBUG] [FML]: The world 61fb9a5c (world) may have leaked: seen 70 times.
+
+[04:39:17] [Server thread/DEBUG] [FML]: The world 6243b1c (world) may have leaked: seen 70 times.
+
+[04:39:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:39:39] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:39:39] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:39:39] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:39:40] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:5 mods->FMLHandshakeServerState$2:HELLO
+[04:39:40] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:39:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:39:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: bradumar16[/127.183.192.39:39537] logged in with entity id 2088 at (-3.5, 81.0, 254.5)
+[04:39:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 joined the game
+[04:39:40] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:40:07] [Server thread/DEBUG] [FML]: The world 61fb9a5c (world) may have leaked: seen 75 times.
+
+[04:40:07] [Server thread/DEBUG] [FML]: The world 6243b1c (world) may have leaked: seen 75 times.
+
+[04:40:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 lost connection: Disconnected
+[04:40:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 left the game
+[04:40:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:41:01] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[04:41:01] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
+[04:41:01] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[04:41:01] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[04:41:01] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[04:41:01] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[04:41:01] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[04:41:01] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.001s
+[04:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[04:41:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:41:01] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:41:01] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[04:41:01] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[04:41:01] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[04:41:01] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[04:41:01] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[04:41:01] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[04:41:01] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[04:41:01] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[04:41:01] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.001s
+[04:41:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:41:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:41:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

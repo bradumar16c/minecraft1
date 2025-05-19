@@ -74,3 +74,18 @@
 [04:27:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.466s)! For help, type "help" or "?"
 [04:27:38] [Server thread/INFO] [FML]: Unloading dimension -1
 [04:27:38] [Server thread/INFO] [FML]: Unloading dimension 1
+[04:39:40] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:39:40] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[04:39:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:39:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: bradumar16[/127.183.192.39:39537] logged in with entity id 2088 at (-3.5, 81.0, 254.5)
+[04:39:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 joined the game
+[04:40:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 lost connection: Disconnected
+[04:40:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 left the game
+[04:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:41:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[04:41:01] [Server thread/INFO] [FML]: Unloading dimension 0
+[04:41:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:41:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:41:02] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
