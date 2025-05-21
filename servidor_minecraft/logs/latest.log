@@ -3744,3 +3744,96 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [04:36:15] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-35, y:10, z:153] in the dimension 0
 [04:36:15] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
 [04:36:22] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[04:40:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:40:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:42:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:42:56] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-21_04.42.56-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-21_04.42.56-death-0'
+[04:42:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 was slain by Spider
+[04:42:56] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-275, y:68, z:201] in the dimension 0
+[04:42:56] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[04:42:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[04:43:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Knowledge of Death]
+[04:43:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:43:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has reached the goal [Here They Come]
+[04:43:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:43:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 got revenge on Spider
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:44:03] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP has made the advancement [Acquire Hardware]
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:46:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:48:45] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:49:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:50:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
