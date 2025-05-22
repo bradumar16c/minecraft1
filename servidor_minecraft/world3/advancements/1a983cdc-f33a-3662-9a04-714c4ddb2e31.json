@@ -440,8 +440,11 @@
       "marsh": "2025-05-22 06:44:47 +0000",
       "chaparral": "2025-05-21 04:16:14 +0000",
       "flower_field": "2025-05-21 04:29:07 +0000",
+      "maple_woods": "2025-05-22 06:51:31 +0000",
       "coniferous_forest": "2025-05-22 06:33:10 +0000",
+      "seasonal_forest": "2025-05-22 06:51:23 +0000",
       "glacier": "2025-05-22 06:38:52 +0000",
+      "meadow": "2025-05-22 06:51:36 +0000",
       "snowy_coniferous_forest": "2025-05-22 06:35:01 +0000",
       "tundra": "2025-05-22 06:40:57 +0000",
       "brushland": "2025-05-21 04:32:56 +0000"
@@ -827,6 +830,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-05-21 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-05-22 06:57:13 +0000"
     },
     "done": true
   },
