@@ -651,7 +651,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "chaparral": "2025-05-21 04:02:00 +0000"
+      "chaparral": "2025-05-21 04:02:00 +0000",
+      "brushland": "2025-05-21 04:53:10 +0000"
     },
     "done": false
   },
