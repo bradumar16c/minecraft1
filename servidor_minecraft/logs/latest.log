@@ -1993,3 +1993,18 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [03:26:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [03:26:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [03:26:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:31:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bradumar16: Given [Unbound Warp Page] * 1 to bradumar16]
+[03:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bradumar16: Given [Warp Book] * 1 to bradumar16]
+[03:36:00] [Server thread/INFO] [mca]: Villager death: Marth. Caused by: Zombie. UUID: a75d5d4b-dabc-41c2-b5fb-b2f4cacf7317
+[03:36:36] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
