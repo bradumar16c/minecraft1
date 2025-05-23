@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-23 02:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:11:15 +0000"
@@ -215,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-05-23 02:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2025-05-22 06:21:15 +0000"
@@ -230,6 +242,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2025-05-21 04:55:15 +0000",
+      "bread": "2025-05-23 02:14:10 +0000",
       "cooked_chicken": "2025-05-22 06:09:26 +0000",
       "carrot": "2025-05-21 04:38:01 +0000"
     },
@@ -484,6 +497,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-22 05:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-23 02:11:49 +0000"
     },
     "done": true
   },
@@ -878,6 +897,12 @@
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_gravel": "2025-05-21 04:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-05-23 02:19:52 +0000"
     },
     "done": true
   },
