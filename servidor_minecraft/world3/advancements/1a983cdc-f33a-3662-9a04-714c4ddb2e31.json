@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-05-23 02:49:12 +0000"
@@ -895,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-21 04:49:59 +0000"
@@ -928,6 +940,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:03:02 +0000"
     },
     "done": true
   },
@@ -1387,6 +1405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_planks": "2025-05-21 04:49:28 +0000"
@@ -1732,6 +1756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2025-05-23 04:02:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-05-21 03:52:01 +0000"
@@ -1843,6 +1873,18 @@
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2025-05-21 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 04:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-23 04:03:02 +0000"
     },
     "done": true
   },
