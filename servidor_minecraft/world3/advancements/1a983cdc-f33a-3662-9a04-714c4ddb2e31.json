@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-23 03:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-05-21 04:00:50 +0000"
@@ -344,6 +350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-23 03:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-22 06:14:51 +0000"
@@ -353,6 +365,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-05-22 06:21:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-05-23 03:22:20 +0000"
     },
     "done": true
   },
@@ -461,6 +479,12 @@
   "ebwizardry:handbook/scrolls": {
     "criteria": {
       "criteria_0": "2025-05-22 06:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-23 03:13:11 +0000"
     },
     "done": true
   },
@@ -859,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-23 03:09:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-21 03:56:19 +0000"
@@ -1159,6 +1189,12 @@
     },
     "done": true
   },
+  "rustic:recipes/almanac": {
+    "criteria": {
+      "has_book": "2025-05-23 03:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2025-05-21 04:00:50 +0000"
@@ -1210,6 +1246,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-23 03:26:28 +0000"
     },
     "done": true
   },
@@ -1306,6 +1348,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-21 04:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-23 03:09:56 +0000"
     },
     "done": true
   },
@@ -1509,6 +1557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-23 03:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-21 04:01:56 +0000"
@@ -1686,6 +1740,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-21 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-05-23 03:09:56 +0000"
     },
     "done": true
   },
