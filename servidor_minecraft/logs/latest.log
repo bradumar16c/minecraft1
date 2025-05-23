@@ -1414,3 +1414,34 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [06:24:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [06:24:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [06:24:40] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:33:23] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[06:33:23] [Server thread/INFO] [FML]: Loading dimension -1 (world3) (net.minecraft.server.dedicated.DedicatedServer@4cdcc9b)
+[06:33:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[06:33:23] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[06:33:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved too quickly! 125.10825526314099,19.5,-230.8346878643107
+[06:36:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:36:05] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:37:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:37:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:37:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:37:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:37:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:37:21] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:37:52] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[06:37:52] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[06:37:54] [Server thread/INFO] [FML]: Unloading dimension -1
+[06:38:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 lost connection: Timed out
+[06:38:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 left the game
+[06:39:08] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[06:39:08] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 87 mods : cucumber@1.1.3,mca@6.1.0,ccm@1.0,openmods@0.12.2,ebwizardry@4.3.14,jei@4.16.1.1013,cofhcore@4.6.6,jeroreintegration@1.1.0,thermalfoundation@2.6.7,plustic@8.0.6,wawla@2.6.275,armoryexpansion-matteroverdrive@1.4.2,mcp@9.42,clumps@3.1.2,hammercore@12.2.58,ctm@MC1.12.2-1.0.2.31,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,materialis@1.2.5,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,morebuckets@1.0.4,culinaryconstruct@1.3.4,conarm@1.2.5.10,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,llibrary@1.7.20,cofhworld@1.4.0,fossil@8.0.5,iceandfire@1.9.1,moartinkers@0.6.0,waila@1.8.26,walljump@1.3.2,tlauncher_custom_cape_skin@1.4,jeresources@0.9.3.203,armoryexpansion@1.4.2,forge@14.23.5.2860,mysticalagradditions@1.3.2,warpbook@1.12.2-3.3.4,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,chesttransporter@2.8.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,openblocks@1.8.1,armoryexpansion-conarm@1.4.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,materialispreload@1.2.5,croparia@2.4,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2444,silentlib@3.0.13,baubles@1.5.2,redstoneflux@2.1.1,ironfurnaces@1.3.5,openmodscore@0.12.2,rustic@1.2.0,extrautils2@1.0,improvableskills@12.4.68,roguelike@1.8.0,bloodmoon@1.5.3,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,securitycraft@v1.10,storagedrawers@5.5.3,torcherino@7.6,FML@8.0.99.99,thermalexpansion@5.5.7,tombstone@4.7.5,taiga@1.12.2-1.3.3,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,moreoverlays@1.15.1,armoryexpansion-iceandfire@1.4.2,mmdlib@1.0.0-rc2,armoryexpansion-custommaterials@1.4.2,tinkersjei@1.2,codechickenlib@3.2.3.358,scalinghealth@1.3.37,chiselsandbits@14.33,tp@3.2.34,base@3.14.0
+[06:39:08] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[06:39:08] [Netty Epoll Server IO #4/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[06:39:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:39:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: bradumar16[/127.84.95.222:52413] logged in with entity id 477421 at (-4.9830583999213705, 88.0, 35.20242358437212)
+[06:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 joined the game
+[06:39:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[06:39:24] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for bradumar16
+[06:39:24] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[06:39:24] [Server thread/INFO] [ebwizardry]: Synchronising config settings for bradumar16
+[06:39:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[06:39:24] [Server thread/INFO] [Waila]: Player EntityPlayerMP['bradumar16'/477421, l='world3', x=-4.98, y=88.00, z=35.20] connected. Sending ping
