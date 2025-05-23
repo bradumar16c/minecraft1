@@ -1445,3 +1445,9 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [06:39:24] [Server thread/INFO] [ebwizardry]: Synchronising config settings for bradumar16
 [06:39:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [06:39:24] [Server thread/INFO] [Waila]: Player EntityPlayerMP['bradumar16'/477421, l='world3', x=-4.98, y=88.00, z=35.20] connected. Sending ping
+[06:56:56] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-23_06.56.56-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-23_06.56.56-death-0'
+[06:56:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 was slain by Zombie
+[06:56:56] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-169, y:70, z:235] in the dimension 0
+[06:56:56] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[06:56:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[06:57:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
