@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"
@@ -260,6 +266,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-05-21 03:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
     },
     "done": true
   },
@@ -566,6 +578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-05-21 04:00:50 +0000"
@@ -629,6 +647,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
     },
     "done": true
   },
@@ -713,6 +737,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-21 04:00:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-05-23 03:37:25 +0000"
     },
     "done": true
   },
@@ -818,6 +848,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2025-05-21 03:52:01 +0000"
@@ -846,6 +888,12 @@
       "enderman": "2025-05-23 02:40:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -931,9 +979,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-23 03:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-21 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
     },
     "done": true
   },
@@ -1048,6 +1108,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2025-05-22 06:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
     },
     "done": true
   },
@@ -1530,6 +1596,7 @@
       "taiga": "2025-05-22 06:29:27 +0000",
       "redwood_taiga_hills": "2025-05-22 06:43:59 +0000",
       "taiga_hills": "2025-05-22 06:32:22 +0000",
+      "birch_forest_hills": "2025-05-23 03:38:34 +0000",
       "taiga_cold": "2025-05-22 06:33:27 +0000",
       "ocean": "2025-05-22 07:24:08 +0000",
       "extreme_hills": "2025-05-22 06:39:16 +0000",
@@ -1764,6 +1831,12 @@
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2025-05-21 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-23 03:37:25 +0000"
     },
     "done": true
   },

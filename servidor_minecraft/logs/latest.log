@@ -2008,3 +2008,47 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:shady_merchant`. A random skin will be generated.
 [03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
 [03:36:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:37:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Magic Writing]
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Diamonds!]
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:25] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:37:29] [Server thread/INFO] [mca]: Villager death: Basil. Caused by: Zombie. UUID: dfa82027-65ae-4e33-a468-deb6ff2ce581
+[03:38:42] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-23_03.38.42-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-23_03.38.42-death-0'
+[03:38:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 burned to death
+[03:38:42] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-1941, y:70, z:-280] in the dimension 0
+[03:38:42] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[03:38:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[03:39:30] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-23_03.39.30-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-23_03.39.30-death-0'
+[03:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 was turned into KFC by a dragon
+[03:39:30] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-1686, y:69, z:-284] in the dimension 0
+[03:39:31] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[03:39:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[03:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bradumar16: Given [Ender Pearl] * 1 to bradumar16]
+[03:39:56] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:40:10] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-23_03.40.10-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-23_03.40.10-death-0'
+[03:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 burned to death
+[03:40:10] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-1497, y:62, z:-267] in the dimension 0
+[03:40:10] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[03:40:11] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[03:40:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [bradumar16: Given [Ender Pearl] * 1 to bradumar16]
+[03:41:54] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:41:54] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:alchemist`. A random skin will be generated.
+[03:41:54] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:alchemist`. A random skin will be generated.
+[03:41:54] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:41:54] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:41:55] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[03:41:55] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:alchemist`. A random skin will be generated.
+[03:41:56] [Server thread/WARN] [mca]: No skin found for profession: `extrautils2:alchemist`. A random skin will be generated.
+[03:43:59] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:44:11] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[03:44:15] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
