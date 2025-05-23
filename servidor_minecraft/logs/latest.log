@@ -1401,3 +1401,11 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [05:43:26] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
 [05:43:27] [Server thread/INFO] [FML]: Unloading dimension -1
 [05:43:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved too quickly! -125.33204651016172,-18.5,230.63594922268842
+[06:02:45] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[06:02:45] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[06:02:45] [Server thread/INFO] [FML]: Loading dimension -11325 (world3) (net.minecraft.server.dedicated.DedicatedServer@4cdcc9b)
+[06:02:45] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[06:02:45] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[06:03:19] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[06:03:19] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[06:03:21] [Server thread/INFO] [FML]: Unloading dimension -11325
