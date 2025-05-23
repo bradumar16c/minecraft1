@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 04:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-23 02:51:21 +0000"
@@ -955,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-05-23 04:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:11:15 +0000"
@@ -1042,6 +1054,12 @@
   "ebwizardry:wizard_tower": {
     "criteria": {
       "criteria_0": "2025-05-22 06:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 04:34:08 +0000"
     },
     "done": true
   },
@@ -1272,6 +1290,12 @@
       "has_planks": "2025-05-21 04:00:50 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "ruby": "2025-05-23 04:28:17 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
@@ -1909,6 +1933,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2025-05-23 04:34:08 +0000"
     },
     "done": true
   },

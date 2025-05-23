@@ -2354,3 +2354,10 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [04:24:51] [Server thread/INFO] [FML]: Loading dimension -11325 (world3) (net.minecraft.server.dedicated.DedicatedServer@131035cd)
 [04:24:51] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
 [04:24:51] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[04:28:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:28:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:29:09] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[04:29:09] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[04:29:11] [Server thread/INFO] [FML]: Unloading dimension -11325
+[04:34:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:34:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
