@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-24 17:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-05-24 04:33:54 +0000"
@@ -299,6 +305,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-05-24 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-24 17:52:09 +0000"
     },
     "done": true
   },
@@ -557,6 +569,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-05-24 17:56:59 +0000",
       "chaparral": "2025-05-21 04:02:00 +0000",
       "fungi_forest": "2025-05-24 04:12:48 +0000",
       "undergarden": "2025-05-24 04:22:57 +0000",
@@ -1168,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-24 17:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-05-21 04:16:50 +0000"
@@ -1207,6 +1226,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:07:33 +0000"
+    },
+    "done": true
+  },
+  "rustic:recipes/almanac": {
+    "criteria": {
+      "has_book": "2025-05-24 17:58:47 +0000"
     },
     "done": true
   },
@@ -1261,6 +1286,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-24 02:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-24 17:58:47 +0000"
     },
     "done": true
   },
@@ -1516,7 +1547,8 @@
     "criteria": {
       "forest": "2025-05-21 03:54:47 +0000",
       "forest_hills": "2025-05-21 04:01:54 +0000",
-      "plains": "2025-05-21 03:54:59 +0000"
+      "plains": "2025-05-21 03:54:59 +0000",
+      "savanna": "2025-05-24 17:59:38 +0000"
     },
     "done": false
   },
@@ -1535,6 +1567,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-21 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-24 17:58:47 +0000"
     },
     "done": true
   },
@@ -1721,6 +1759,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-21 04:09:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 17:56:17 +0000"
     },
     "done": true
   },
