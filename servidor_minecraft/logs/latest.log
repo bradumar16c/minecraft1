@@ -1657,3 +1657,9 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [04:33:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [04:33:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [04:33:54] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[04:42:35] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'ebwizardry:chests/library_ruins_bookshelf'!
+[04:42:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:47:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Sandwich Lover]
+[04:47:22] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[04:48:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP has made the advancement [Sandwich Lover]
+[04:48:24] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
