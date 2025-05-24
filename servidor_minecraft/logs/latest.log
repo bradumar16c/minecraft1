@@ -1421,3 +1421,24 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [17:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has reached the goal [Bone Crusher]
 [17:59:34] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [17:59:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[18:01:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP has made the advancement [Suit Up]
+[18:01:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[18:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Cover Me With Diamonds]
+[18:02:55] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[18:05:49] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[18:05:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[18:05:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[18:05:50] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[18:07:44] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-24_18.07.44-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-24_18.07.44-death-0'
+[18:07:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was slain by Spider
+[18:07:44] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-484, y:10, z:396] in the dimension 0
+[18:07:44] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[18:07:45] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[18:09:34] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-24_18.09.34-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-24_18.09.34-death-0'
+[18:09:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 tried to swim in lava to escape Kyoshi_JP
+[18:09:34] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-480, y:10, z:401] in the dimension 0
+[18:09:34] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[18:09:35] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[18:10:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[18:10:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[18:10:15] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
