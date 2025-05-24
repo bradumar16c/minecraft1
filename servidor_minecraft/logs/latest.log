@@ -1550,3 +1550,4 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [03:29:08] [Server thread/INFO] [ebwizardry]: Synchronising config settings for Kyoshi_JP
 [03:29:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [03:29:08] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kyoshi_JP'/191339, l='world3', x=-158.62, y=66.00, z=160.22] connected. Sending ping
+[03:45:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
