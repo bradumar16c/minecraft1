@@ -600,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-24 05:17:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-05-24 03:00:58 +0000"
