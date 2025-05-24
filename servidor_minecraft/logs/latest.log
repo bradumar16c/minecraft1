@@ -1405,3 +1405,8 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [17:25:31] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-125, y:70, z:233] in the dimension 0
 [17:25:31] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
 [17:25:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[17:29:59] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[17:31:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
+[17:34:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[17:38:19] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[17:44:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!

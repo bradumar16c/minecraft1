@@ -320,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-05-24 17:29:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 02:55:48 +0000"
@@ -812,6 +818,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-05-24 17:40:14 +0000",
       "skeleton": "2025-05-24 03:01:22 +0000",
       "zombie": "2025-05-21 04:07:14 +0000",
       "spider": "2025-05-21 04:26:13 +0000",
