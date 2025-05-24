@@ -1551,3 +1551,12 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [03:29:08] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [03:29:08] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Kyoshi_JP'/191339, l='world3', x=-158.62, y=66.00, z=160.22] connected. Sending ping
 [03:45:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[03:54:30] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[03:56:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
+[03:58:32] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-24_03.58.32-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-24_03.58.32-death-0'
+[03:58:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was slain by bradumar16
+[03:58:32] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-172, y:65, z:159] in the dimension 0
+[03:58:32] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[03:58:33] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[03:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 has made the advancement [Funeral Theft]
+[03:58:52] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16

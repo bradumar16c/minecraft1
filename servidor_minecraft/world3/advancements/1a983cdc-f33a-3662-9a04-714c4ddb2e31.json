@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 03:58:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-23 02:58:51 +0000"
@@ -2217,6 +2223,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-05-24 03:54:30 +0000"
     },
     "done": true
   },

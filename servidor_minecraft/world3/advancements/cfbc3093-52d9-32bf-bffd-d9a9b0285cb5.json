@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2025-05-24 03:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:07:33 +0000"
