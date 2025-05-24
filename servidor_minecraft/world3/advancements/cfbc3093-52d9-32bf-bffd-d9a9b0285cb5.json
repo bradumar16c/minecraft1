@@ -1661,6 +1661,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/spells": {
+    "criteria": {
+      "criteria_0": "2025-05-24 18:33:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-24 03:06:28 +0000"

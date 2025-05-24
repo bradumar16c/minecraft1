@@ -1133,6 +1133,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/food/shroom_powder": {
+    "criteria": {
+      "has_mushroom": "2025-05-24 18:53:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-21 04:00:51 +0000"
