@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-05-24 03:07:25 +0000"
+    },
+    "done": false
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-05-21 03:55:26 +0000"
@@ -516,6 +522,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-24 03:05:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-24 03:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:07:33 +0000"
@@ -686,6 +704,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-05-24 03:01:22 +0000",
       "zombie": "2025-05-21 04:07:14 +0000",
       "spider": "2025-05-21 04:26:13 +0000"
     },
@@ -1337,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-24 03:06:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-21 04:09:12 +0000"
@@ -1436,6 +1461,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-21 04:44:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 03:01:16 +0000"
     },
     "done": true
   },
