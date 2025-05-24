@@ -1625,3 +1625,5 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [20:56:38] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [21:22:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
 [21:45:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
+[21:58:27] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[22:01:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
