@@ -1382,3 +1382,5 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [02:20:42] [Server thread/INFO] [ebwizardry]: Synchronising config settings for bradumar16
 [02:20:42] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
 [02:20:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['bradumar16'/1430, l='world3', x=-128.26, y=70.00, z=240.95] connected. Sending ping
+[02:29:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[02:36:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
