@@ -1638,3 +1638,4 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [22:48:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
 [22:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
 [23:05:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
+[23:17:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
