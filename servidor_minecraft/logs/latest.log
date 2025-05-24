@@ -1636,3 +1636,4 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiScreen
 [22:42:37] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
 [22:43:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
 [22:48:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
+[22:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
