@@ -243,3 +243,6 @@
 [01:54:59] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-133, y:86, z:158] in the dimension 0
 [01:54:59] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
 [01:55:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:57:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved wrongly!
+[01:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
+[02:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
