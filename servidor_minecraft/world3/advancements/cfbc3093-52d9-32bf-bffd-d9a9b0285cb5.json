@@ -394,6 +394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-25 00:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 04:46:43 +0000"
@@ -595,6 +601,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2025-05-24 17:56:59 +0000",
+      "phantasmagoric_inferno": "2025-05-24 23:52:07 +0000",
       "chaparral": "2025-05-21 04:02:00 +0000",
       "fungi_forest": "2025-05-24 04:12:48 +0000",
       "undergarden": "2025-05-24 04:22:57 +0000",
@@ -611,6 +618,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-05-21 04:09:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
+    "criteria": {
+      "has_flower": "2025-05-24 23:59:39 +0000"
     },
     "done": true
   },
@@ -848,6 +861,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/filled_honeycomb_block": {
+    "criteria": {
+      "has_item": "2025-05-25 00:01:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_umbran": {
     "criteria": {
       "entered_water": "2025-05-21 03:54:55 +0000"
@@ -866,6 +885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2025-05-25 00:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-24 02:55:48 +0000"
@@ -876,6 +901,7 @@
     "criteria": {
       "zombie_villager": "2025-05-24 17:40:14 +0000",
       "skeleton": "2025-05-24 03:01:22 +0000",
+      "blaze": "2025-05-25 00:05:48 +0000",
       "zombie": "2025-05-21 04:07:14 +0000",
       "spider": "2025-05-21 04:26:13 +0000",
       "creeper": "2025-05-24 03:20:23 +0000"
@@ -1092,6 +1118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-25 00:06:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2025-05-24 02:55:48 +0000"
@@ -1164,6 +1196,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-25 00:04:06 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2025-05-21 03:56:15 +0000"
@@ -1215,6 +1253,12 @@
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-21 04:06:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ash_block": {
+    "criteria": {
+      "has_item": "2025-05-24 23:52:06 +0000"
     },
     "done": true
   },
@@ -1513,6 +1557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-25 00:06:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-05-24 02:55:48 +0000"
@@ -1592,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-25 00:06:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-05-24 22:42:35 +0000"
@@ -1607,6 +1663,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-24 04:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/coal_from_ash": {
+    "criteria": {
+      "has_gem_block": "2025-05-24 23:52:06 +0000"
     },
     "done": true
   },
@@ -1916,6 +1978,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2025-05-24 03:12:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/gray_dye_from_ash": {
+    "criteria": {
+      "has_flower": "2025-05-24 23:52:06 +0000"
     },
     "done": true
   },

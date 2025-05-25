@@ -439,6 +439,7 @@
       "shrubland": "2025-05-22 06:28:57 +0000",
       "steppe": "2025-05-22 21:45:16 +0000",
       "alps_foothills": "2025-05-22 21:41:06 +0000",
+      "phantasmagoric_inferno": "2025-05-24 23:52:14 +0000",
       "highland": "2025-05-22 07:24:50 +0000",
       "quagmire": "2025-05-22 07:28:01 +0000",
       "marsh": "2025-05-22 06:44:47 +0000",
@@ -600,6 +601,7 @@
       "zombie_villager": "2025-05-24 21:09:46 +0000",
       "skeleton": "2025-05-21 04:28:03 +0000",
       "husk": "2025-05-24 18:22:05 +0000",
+      "blaze": "2025-05-25 00:06:24 +0000",
       "zombie": "2025-05-21 03:59:40 +0000",
       "cave_spider": "2025-05-22 06:13:31 +0000",
       "witch": "2025-05-21 04:04:16 +0000",
@@ -690,6 +692,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-05-22 06:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-25 00:06:24 +0000"
     },
     "done": true
   },
@@ -1929,6 +1937,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-25 00:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-21 04:11:15 +0000"
@@ -2091,6 +2105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-25 00:06:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-05-21 04:53:26 +0000"
@@ -2118,6 +2138,12 @@
   "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
     "criteria": {
       "has_flower": "2025-05-23 03:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-25 00:06:24 +0000"
     },
     "done": true
   },
