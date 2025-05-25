@@ -1901,6 +1901,12 @@
     },
     "done": true
   },
+  "fossil:fossil/break_fossil": {
+    "criteria": {
+      "biofossil": "2025-05-25 03:22:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-05-24 02:55:48 +0000"
