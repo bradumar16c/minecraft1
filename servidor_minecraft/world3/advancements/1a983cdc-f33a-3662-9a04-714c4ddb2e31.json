@@ -598,6 +598,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-05-25 00:30:02 +0000",
       "zombie_villager": "2025-05-24 21:09:46 +0000",
       "skeleton": "2025-05-21 04:28:03 +0000",
       "husk": "2025-05-24 18:22:05 +0000",
@@ -610,6 +611,12 @@
       "enderman": "2025-05-23 02:40:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-25 00:33:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -1056,6 +1063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-25 00:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2025-05-23 04:16:05 +0000"
@@ -1271,6 +1284,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-21 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-25 00:33:20 +0000"
     },
     "done": true
   },
@@ -1757,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-25 00:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-21 04:49:59 +0000"
@@ -1766,6 +1791,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-21 04:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-25 00:33:28 +0000"
     },
     "done": true
   },

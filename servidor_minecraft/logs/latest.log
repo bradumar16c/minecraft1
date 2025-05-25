@@ -62,3 +62,67 @@
 [00:24:25] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:251, y:56, z:186] in the dimension -1
 [00:24:25] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
 [00:24:27] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[00:24:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 lost connection: Timed out
+[00:24:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 left the game
+[00:25:50] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:25:50] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 87 mods : cucumber@1.1.3,mca@6.1.0,ccm@1.0,openmods@0.12.2,ebwizardry@4.3.14,jei@4.16.1.1013,cofhcore@4.6.6,jeroreintegration@1.1.0,thermalfoundation@2.6.7,plustic@8.0.6,wawla@2.6.275,armoryexpansion-matteroverdrive@1.4.2,mcp@9.42,clumps@3.1.2,hammercore@12.2.58,ctm@MC1.12.2-1.0.2.31,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,materialis@1.2.5,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,morebuckets@1.0.4,culinaryconstruct@1.3.4,conarm@1.2.5.10,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,llibrary@1.7.20,cofhworld@1.4.0,fossil@8.0.5,iceandfire@1.9.1,moartinkers@0.6.0,waila@1.8.26,walljump@1.3.2,tlauncher_custom_cape_skin@1.4,jeresources@0.9.3.203,armoryexpansion@1.4.2,forge@14.23.5.2860,mysticalagradditions@1.3.2,warpbook@1.12.2-3.3.4,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,chesttransporter@2.8.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,openblocks@1.8.1,armoryexpansion-conarm@1.4.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,materialispreload@1.2.5,croparia@2.4,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2444,silentlib@3.0.13,baubles@1.5.2,redstoneflux@2.1.1,ironfurnaces@1.3.5,openmodscore@0.12.2,rustic@1.2.0,extrautils2@1.0,improvableskills@12.4.68,roguelike@1.8.0,bloodmoon@1.5.3,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,securitycraft@v1.10,storagedrawers@5.5.3,torcherino@7.6,FML@8.0.99.99,thermalexpansion@5.5.7,tombstone@4.7.5,taiga@1.12.2-1.3.3,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,moreoverlays@1.15.1,armoryexpansion-iceandfire@1.4.2,mmdlib@1.0.0-rc2,armoryexpansion-custommaterials@1.4.2,tinkersjei@1.2,codechickenlib@3.2.3.358,scalinghealth@1.3.37,chiselsandbits@14.33,tp@3.2.34,base@3.14.0
+[00:25:50] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[00:25:50] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:26:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:26:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: bradumar16[/127.84.95.222:39701] logged in with entity id 1640603 at (-126.5, 70.0999984741211, 238.5)
+[00:26:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 joined the game
+[00:26:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[00:26:04] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for bradumar16
+[00:26:04] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[00:26:04] [Server thread/INFO] [ebwizardry]: Synchronising config settings for bradumar16
+[00:26:04] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:26:04] [Server thread/INFO] [Waila]: Player EntityPlayerMP['bradumar16'/1640603, l='world3', x=-126.50, y=70.10, z=238.50] connected. Sending ping
+[00:26:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 lost connection: Timed out
+[00:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 left the game
+[00:26:59] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:26:59] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 87 mods : cucumber@1.1.3,mca@6.1.0,ccm@1.0,openmods@0.12.2,ebwizardry@4.3.14,jei@4.16.1.1013,cofhcore@4.6.6,jeroreintegration@1.1.0,thermalfoundation@2.6.7,plustic@8.0.6,wawla@2.6.275,armoryexpansion-matteroverdrive@1.4.2,mcp@9.42,clumps@3.1.2,hammercore@12.2.58,ctm@MC1.12.2-1.0.2.31,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,materialis@1.2.5,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,morebuckets@1.0.4,culinaryconstruct@1.3.4,conarm@1.2.5.10,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,llibrary@1.7.20,cofhworld@1.4.0,fossil@8.0.5,iceandfire@1.9.1,moartinkers@0.6.0,waila@1.8.26,walljump@1.3.2,tlauncher_custom_cape_skin@1.4,jeresources@0.9.3.203,armoryexpansion@1.4.2,forge@14.23.5.2860,mysticalagradditions@1.3.2,warpbook@1.12.2-3.3.4,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,chesttransporter@2.8.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,openblocks@1.8.1,armoryexpansion-conarm@1.4.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,materialispreload@1.2.5,croparia@2.4,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2444,silentlib@3.0.13,baubles@1.5.2,redstoneflux@2.1.1,ironfurnaces@1.3.5,openmodscore@0.12.2,rustic@1.2.0,extrautils2@1.0,improvableskills@12.4.68,roguelike@1.8.0,bloodmoon@1.5.3,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,securitycraft@v1.10,storagedrawers@5.5.3,torcherino@7.6,FML@8.0.99.99,thermalexpansion@5.5.7,tombstone@4.7.5,taiga@1.12.2-1.3.3,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,moreoverlays@1.15.1,armoryexpansion-iceandfire@1.4.2,mmdlib@1.0.0-rc2,armoryexpansion-custommaterials@1.4.2,tinkersjei@1.2,codechickenlib@3.2.3.358,scalinghealth@1.3.37,chiselsandbits@14.33,tp@3.2.34,base@3.14.0
+[00:26:59] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[00:26:59] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:27:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:27:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: bradumar16[/127.84.95.222:43481] logged in with entity id 1641525 at (-126.5, 70.0999984741211, 238.5)
+[00:27:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 joined the game
+[00:27:10] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[00:27:10] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for bradumar16
+[00:27:10] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[00:27:10] [Server thread/INFO] [ebwizardry]: Synchronising config settings for bradumar16
+[00:27:10] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:27:10] [Server thread/INFO] [Waila]: Player EntityPlayerMP['bradumar16'/1641525, l='world3', x=-126.50, y=70.10, z=238.50] connected. Sending ping
+[00:27:28] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[00:27:28] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[00:28:45] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-25_00.28.45-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-25_00.28.45-death-0'
+[00:28:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP tried to swim in lava
+[00:28:45] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:95, y:32, z:127] in the dimension -1
+[00:28:45] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[00:28:47] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[00:28:55] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[00:28:55] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Kyoshi_JP
+[00:30:36] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-25_00.30.36-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-25_00.30.36-death-0'
+[00:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 tried to swim in lava to escape Kyoshi_JP
+[00:30:36] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:24, y:76, z:65] in the dimension -1
+[00:30:36] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[00:30:38] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[00:30:40] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-25_00.30.40-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-25_00.30.40-death-0'
+[00:30:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP tried to swim in lava
+[00:30:40] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:23, y:76, z:64] in the dimension -1
+[00:30:40] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[00:30:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[00:30:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[00:30:48] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Kyoshi_JP
+[00:31:04] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[00:31:04] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[00:31:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[00:31:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[00:31:32] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[00:31:32] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Kyoshi_JP
+[00:31:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 moved too quickly! -124.54010080918822,-18.5,228.80000001192093
+[00:31:33] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:33:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:33:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:33:20] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:33:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[00:33:28] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
