@@ -344,15 +344,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-05-24 18:26:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2025-05-24 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-24 18:26:14 +0000"
     },
     "done": true
   },
@@ -1264,7 +1264,8 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
-      "emerald": "2025-05-24 18:30:31 +0000"
+      "emerald": "2025-05-24 18:30:31 +0000",
+      "ruby": "2025-05-25 01:47:18 +0000"
     },
     "done": false
   },
@@ -1682,6 +1683,7 @@
     "criteria": {
       "forest": "2025-05-21 03:54:47 +0000",
       "beaches": "2025-05-25 01:39:02 +0000",
+      "mesa": "2025-05-25 01:46:54 +0000",
       "forest_hills": "2025-05-21 04:01:54 +0000",
       "plains": "2025-05-21 03:54:59 +0000",
       "savanna": "2025-05-24 17:59:38 +0000",
