@@ -143,3 +143,76 @@
 [01:07:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
 [01:09:53] [Server thread/INFO] [ebwizardry]: Synchronising advancements for Kyoshi_JP
 [01:27:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kyoshi_JP moved wrongly!
+[01:36:06] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-25_01.36.06-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-25_01.36.06-death-0'
+[01:36:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was slain by bradumar16
+[01:36:06] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-221, y:66, z:299] in the dimension 0
+[01:36:06] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[01:36:08] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[01:38:45] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[01:38:45] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[01:38:45] [Server thread/INFO] [FML]: Loading dimension -11325 (world3) (net.minecraft.server.dedicated.DedicatedServer@6cd904fa)
+[01:38:45] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:38:45] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-11, 2] in dimension -11325 (Deep Dark) while populating chunk [-10, 2], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-13, 3] in dimension -11325 (Deep Dark) while populating chunk [-12, 3], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-14, 3] in dimension -11325 (Deep Dark) while populating chunk [-12, 3], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-13, 2] in dimension -11325 (Deep Dark) while populating chunk [-12, 2], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-14, 2] in dimension -11325 (Deep Dark) while populating chunk [-13, 2], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-7, 0] in dimension -11325 (Deep Dark) while populating chunk [-7, 1], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-8, 0] in dimension -11325 (Deep Dark) while populating chunk [-7, 1], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-9, 0] in dimension -11325 (Deep Dark) while populating chunk [-8, 0], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:46] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-6, 0] in dimension -11325 (Deep Dark) while populating chunk [-5, 1], causing cascading worldgen lag.
+[01:38:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:47] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-4, 1] in dimension -11325 (Deep Dark) while populating chunk [-3, 2], causing cascading worldgen lag.
+[01:38:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:47] [Server thread/WARN] [FML]: Tinkers Alloying Addon loaded a new chunk [-5, 0] in dimension -11325 (Deep Dark) while populating chunk [-4, 1], causing cascading worldgen lag.
+[01:38:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:38:47] [Server thread/INFO] [taiga]: Detected void dimension, adding to blacklist: -11325
+[01:38:48] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[01:38:48] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Kyoshi_JP
+[01:38:58] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:38:58] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[01:39:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: bradumar16 lost connection: Timed out
+[01:39:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 left the game
+[01:39:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:39:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 87 mods : cucumber@1.1.3,mca@6.1.0,ccm@1.0,openmods@0.12.2,ebwizardry@4.3.14,jei@4.16.1.1013,cofhcore@4.6.6,jeroreintegration@1.1.0,thermalfoundation@2.6.7,plustic@8.0.6,wawla@2.6.275,armoryexpansion-matteroverdrive@1.4.2,mcp@9.42,clumps@3.1.2,hammercore@12.2.58,ctm@MC1.12.2-1.0.2.31,controlling@3.0.10,journeymap@1.12.2-5.7.1p3,materialis@1.2.5,travelersbackpack@1.0.35,chameleon@1.12-4.1.3,morebuckets@1.0.4,culinaryconstruct@1.3.4,conarm@1.2.5.10,inventorytweaks@1.63+release.109.220f184,harvestcraft@1.12.2zb,llibrary@1.7.20,cofhworld@1.4.0,fossil@8.0.5,iceandfire@1.9.1,moartinkers@0.6.0,waila@1.8.26,walljump@1.3.2,tlauncher_custom_cape_skin@1.4,jeresources@0.9.3.203,armoryexpansion@1.4.2,forge@14.23.5.2860,mysticalagradditions@1.3.2,warpbook@1.12.2-3.3.4,twilightforest@3.11.1021,flammpfeil.slashblade@mc1.12-r33,chesttransporter@2.8.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,mysticalagriculture@1.7.5,openblocks@1.8.1,armoryexpansion-conarm@1.4.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,torchmaster@1.8.5.0,materialispreload@1.2.5,croparia@2.4,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2444,silentlib@3.0.13,baubles@1.5.2,redstoneflux@2.1.1,ironfurnaces@1.3.5,openmodscore@0.12.2,rustic@1.2.0,extrautils2@1.0,improvableskills@12.4.68,roguelike@1.8.0,bloodmoon@1.5.3,mantle@1.12-1.3.3.55,patchouli@1.0-23.6,securitycraft@v1.10,storagedrawers@5.5.3,torcherino@7.6,FML@8.0.99.99,thermalexpansion@5.5.7,tombstone@4.7.5,taiga@1.12.2-1.3.3,appleskin@1.0.14,chisel@MC1.12.2-1.0.2.45,moreoverlays@1.15.1,armoryexpansion-iceandfire@1.4.2,mmdlib@1.0.0-rc2,armoryexpansion-custommaterials@1.4.2,tinkersjei@1.2,codechickenlib@3.2.3.358,scalinghealth@1.3.37,chiselsandbits@14.33,tp@3.2.34,base@3.14.0
+[01:39:59] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[01:39:59] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[01:40:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:40:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: bradumar16[/127.84.95.222:57981] logged in with entity id 1944718 at (-121.5, 102.0, 134.5)
+[01:40:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 joined the game
+[01:40:12] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:40:12] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for bradumar16
+[01:40:12] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[01:40:12] [Server thread/INFO] [ebwizardry]: Synchronising config settings for bradumar16
+[01:40:12] [Server thread/INFO] [ebwizardry]: Synchronising advancements for bradumar16
+[01:40:12] [Server thread/INFO] [Waila]: Player EntityPlayerMP['bradumar16'/1944718, l='world3', x=-121.50, y=102.00, z=134.50] connected. Sending ping
+[01:41:00] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:41:00] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[01:43:45] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-bradumar16-2025-05-25_01.43.45-death-0.dat. It can be restored with command '/ob_inventory restore bradumar16 bradumar16-2025-05-25_01.43.45-death-0'
+[01:43:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 was shot by Skeleton
+[01:43:45] [Server thread/INFO] [tombstone]: The last known grave of bradumar16 is at location [name:Last Grave, x:-123, y:53, z:132] in the dimension -11325
+[01:43:45] [Server thread/INFO] [tombstone]: bradumar16 has successfully been saved
+[01:43:46] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:44:00] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/minecraft1/servidor_minecraft/./world3/data/inventory-Kyoshi_JP-2025-05-25_01.44.00-death-0.dat. It can be restored with command '/ob_inventory restore Kyoshi_JP Kyoshi_JP-2025-05-25_01.44.00-death-0'
+[01:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kyoshi_JP was shot by Skeleton
+[01:44:00] [Server thread/INFO] [tombstone]: The last known grave of Kyoshi_JP is at location [name:Last Grave, x:-120, y:63, z:109] in the dimension -11325
+[01:44:00] [Server thread/INFO] [tombstone]: Kyoshi_JP has successfully been saved
+[01:44:01] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[01:44:02] [Server thread/INFO] [FML]: Unloading dimension -11325
+[01:44:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[01:44:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[01:44:05] [Server thread/INFO] [FML]: Loading dimension -11325 (world3) (net.minecraft.server.dedicated.DedicatedServer@6cd904fa)
+[01:44:05] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to Kyoshi_JP
+[01:44:05] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for Kyoshi_JP
+[01:44:07] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to bradumar16
+[01:44:07] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for bradumar16
+[01:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: bradumar16 got revenge on Skeleton
